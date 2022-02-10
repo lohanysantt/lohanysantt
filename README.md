@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lohanysantt
 - Estudante de Análise e Desenvolvimento de Sistemas
-- Estou estudando Java, SQL, Data Science e qualquer outra matéria que apareça  :) 
+- Estou estudando Java, SQL, Data Science e qualquer outra matéria que apareça no caminho :) 
